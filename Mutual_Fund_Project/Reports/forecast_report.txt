@@ -1,0 +1,7 @@
+MUTUAL FUND FORECAST REPORT
+====================================================================================================
+
+Fund Name : Nippon India Growth Mid Cap Fund
+Current NAV : 4414.95
+Predicted NAV After 30 Days : 4435.92
+Regression R² Score : 0.6963

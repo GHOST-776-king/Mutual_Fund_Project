@@ -237,7 +237,7 @@ python -m streamlit run dashboard.py
 
 # 👨‍💻 Author
 
-## *Akshay Jangir*
+## *Akshya Jangir*
 
 #### Python Developer | Enthusiast personality
 
